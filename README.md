@@ -1,6 +1,11 @@
 # BackTesing
 class ToolBox:
     def __init__(self, df):
+    
+    
+    
+    
+    
         import pandas as pd
         import numpy as np
         import pyodbc #Sql-Connector
